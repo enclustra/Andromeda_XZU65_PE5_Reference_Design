@@ -10,8 +10,9 @@ Enclustra GmbH [support@enclustra.com]
 
 ## Documentation
 
-* [Andromeda XZU65 PE5 Reference Design documentation](./reference_design/doc/Andromeda_XZU65_PE5.pdf)
-* [Petalinux documentation](https://github.com/enclustra/PetalinuxDocumentation)
+* [Andromeda XZU65 PE5 Reference Design documentation](./doc/Andromeda_XZU65_PE5.pdf)
+* [Enclustra AMD Yocto meta layer](https://github.com/enclustra/meta-enclustra-amd)
+    > **_NOTE:_** The Yocto meta layer repository describes how to create a Linux image using the binaries provided in this reference design repository.
 * Enclustra Application Notes
   - [I2C AppNote](https://github.com/enclustra/I2CAppNote)
   - [Gigabit Ethernet AppNote](https://github.com/enclustra/GigabitEthernetAppNote)
